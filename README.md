@@ -1,5 +1,3 @@
-snip code ini
-
 # Data Diri
 
 |  |  |
@@ -10,3 +8,4 @@ snip code ini
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # SCREENSHOT PROGRAM
+https://github.com/Brilian-Maker/UTS_GrafikaKomputer/blob/main/Run%20Program.png
